@@ -92,10 +92,10 @@ body {
 }
 
 .card__price--discounted {
-    margin-right: 2.5rem;
+    margin-right: 2.2rem;
     font-size: 3.2rem;
     font-family: 'Fraunces', serif;
-    letter-spacing: -0.025em;
+    letter-spacing: -0.015em;
     color: var(--dark-cyan);
 }
 
