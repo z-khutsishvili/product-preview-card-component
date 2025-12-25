@@ -4,7 +4,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Links
 
-- Solution URL: []()
+- Solution URL: [https://www.frontendmentor.io/solutions/product-preview-card-component--7nM6YrjuS](https://www.frontendmentor.io/solutions/product-preview-card-component--7nM6YrjuS)
 - Live Site URL: [https://z-khutsishvili.github.io/product-preview-card-component/](https://z-khutsishvili.github.io/product-preview-card-component/)
 
 ## Built with
