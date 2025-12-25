@@ -68,10 +68,8 @@ body {
 
 .card__title {
     margin-top: 2.1rem;
-    margin-right: .9rem;
     font-size: 3.2rem;
     font-family: 'Fraunces', serif;
-    letter-spacing: -0.0312em;
     line-height: 1em;
     color: var(--very-dark-blue);
 }
